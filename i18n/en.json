@@ -4,7 +4,7 @@
 			"..."
 		]
 	},
-	"skinname-example": "WikiWeb",
-	"example-skin-desc": "Skin originally designed for the WikiWeb wiki farm.",
-	"example-no-categories": "No categories"
+	"skinname-wikiweb": "WikiWeb",
+	"wikiweb-skin-desc": "Skin originally designed for the WikiWeb wiki farm.",
+	"wikiweb-no-categories": "No categories"
 }
