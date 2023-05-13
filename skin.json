@@ -7,7 +7,7 @@
 	"url": "https://github.com/thewikiweb/mediawiki-skins-WikiWeb",
 	"description": "A skin designed for the WikiWeb wiki farm",
 	"namemsg": "skinname-wikiweb",
-	"license-name": "CC0-1.0",
+	"license-name": "MIT",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.38.0"
