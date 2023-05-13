@@ -5,12 +5,12 @@
 		"WikiWeb authors"
 	],
 	"url": "https://github.com/thewikiweb/mediawiki-skins-WikiWeb",
-	"description": "A skin designed for the WikiWeb wiki farm",
+	"descriptionmsg": "wikiweb-skin-desc",
 	"namemsg": "skinname-wikiweb",
 	"license-name": "MIT",
 	"type": "skin",
 	"requires": {
-		"MediaWiki": ">= 1.38.0"
+		"MediaWiki": ">= 1.39.0"
 	},
 	"ValidSkinNames": {
 		"example": {
