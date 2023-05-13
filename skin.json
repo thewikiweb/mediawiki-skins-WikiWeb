@@ -1,12 +1,12 @@
 {
-	"name": "Example",
+	"name": "WikiWeb",
 	"version": "1.0.0",
 	"author": [
-		"..."
+		"WikiWeb authors"
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Example",
-	"descriptionmsg": "example-skin-desc",
-	"namemsg": "skinname-example",
+	"url": "https://github.com/thewikiweb/mediawiki-skins-WikiWeb",
+	"description": "A skin designed for the WikiWeb wiki farm",
+	"namemsg": "skinname-wikiweb",
 	"license-name": "CC0-1.0",
 	"type": "skin",
 	"requires": {
@@ -17,7 +17,7 @@
 			"class": "SkinMustache",
 			"args": [
 				{
-					"name": "example",
+					"name": "wikiweb",
 					"responsive": true,
 					"messages": [
 						"example-no-categories",
